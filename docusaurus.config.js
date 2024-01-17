@@ -23,6 +23,7 @@ const config = {
   organizationName: "LABS-TEAM", // Usually your GitHub org/user name.
   projectName: "labs-team", // Usually your repo name.
   trailingSlash: false,
+  deploymentBranch: "main",
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
