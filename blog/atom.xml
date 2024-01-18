@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://labs-team.github.io/LABVR-DOC/blog</id>
+    <id>http://labs-team.github.io/docs/blog</id>
     <title>VRLab Blog</title>
     <updated>2024-01-18T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://labs-team.github.io/LABVR-DOC/blog"/>
+    <link rel="alternate" href="http://labs-team.github.io/docs/blog"/>
     <subtitle>VRLab Blog</subtitle>
-    <icon>http://labs-team.github.io/LABVR-DOC/img/favicon.ico</icon>
+    <icon>http://labs-team.github.io/docs/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[FeedBack 1]]></title>
-        <id>http://labs-team.github.io/LABVR-DOC/blog/FeedBack 1</id>
-        <link href="http://labs-team.github.io/LABVR-DOC/blog/FeedBack 1"/>
+        <id>http://labs-team.github.io/docs/blog/FeedBack 1</id>
+        <link href="http://labs-team.github.io/docs/blog/FeedBack 1"/>
         <updated>2024-01-18T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Bonjour à tous,]]></summary>
         <content type="html"><![CDATA[<p>Bonjour à tous,</p>
@@ -18,9 +18,9 @@
 <p>Nous avons entamé notre projet en nous formant sur Unity afin de créer les éléments nécessaires en réalité virtuelle (VR). Nous avons commencé par configurer les éléments essentiels et installer les packages requis. Par la suite, notre démarche a consisté à créer progressivement un environnement de test et à explorer différentes fonctionnalités indispensables à notre projet.</p>
 <p>Tout d'abord, nous avons créé une zone représentant le laboratoire temporairement, ce qui nous permettra de faire nos tests (interaction joueur-objet, interaction objet-objet, déplacement du joueur, …). Ensuite, nous avons ajouté deux éléments simples (des cubes) dans Unity pour tester visuellement les "mains" avec les manettes. Nous avons ensuite amélioré l'apparence de ces cubes pour qu'ils ressemblent davantage à des mains réelles.</p>
 <p>Enfin, nous avons recréé le comportement d'une main dans la vie réelle, permettant à la main virtuelle de saisir quelque chose. Pour le moment, la main peut simplement effectuer le geste de saisie, mais nous travaillerons sur la capacité à réellement attraper des objets au cours des prochaines sessions de développement.</p>
-<p><img loading="lazy" alt="Vidéo de démonstration des mains" src="http://labs-team.github.io/LABVR-DOC/assets/images/HAND-DEMO-b62764e16b4cbbb7cf50704a6e768994.gif" width="1905" height="914" class="img_ev3q"></p>
+<p><img loading="lazy" alt="Vidéo de démonstration des mains" src="http://labs-team.github.io/docs/assets/images/HAND-DEMO-b62764e16b4cbbb7cf50704a6e768994.gif" width="1905" height="914" class="img_ev3q"></p>
 <p>Nous avons dû choisir entre le déplacement en continu (comme dans les jeux vidéo classiques) ou la téléportation. La décision a été prise d'adopter la téléportation comme méthode de déplacement dans notre laboratoire virtuel pour, notamment, améliorer le confort de l’utilisateur. Pour cela, nous avons ajouté un indicateur pour indiquer la direction et un cercle pour montrer l'emplacement de la téléportation.</p>
-<p><img loading="lazy" alt="Vidéo de démonstration de la téléportation" src="http://labs-team.github.io/LABVR-DOC/assets/images/TELEPORT-DEMO-a121f998a47e4fbb7667c5316fea51c6.gif" width="1919" height="977" class="img_ev3q"></p>
+<p><img loading="lazy" alt="Vidéo de démonstration de la téléportation" src="http://labs-team.github.io/docs/assets/images/TELEPORT-DEMO-a121f998a47e4fbb7667c5316fea51c6.gif" width="1919" height="977" class="img_ev3q"></p>
 <p>L'équipe du LABSTEAM</p>]]></content>
         <author>
             <name>Alexandre Figard</name>
@@ -45,8 +45,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Bienvenue sur notre blog]]></title>
-        <id>http://labs-team.github.io/LABVR-DOC/blog/Bienvenue sur notre blog</id>
-        <link href="http://labs-team.github.io/LABVR-DOC/blog/Bienvenue sur notre blog"/>
+        <id>http://labs-team.github.io/docs/blog/Bienvenue sur notre blog</id>
+        <link href="http://labs-team.github.io/docs/blog/Bienvenue sur notre blog"/>
         <updated>2024-01-17T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Bonjour à tous,]]></summary>
         <content type="html"><![CDATA[<p>Bonjour à tous,</p>
