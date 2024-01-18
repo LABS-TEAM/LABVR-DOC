@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunklabvr_doc=self.webpackChunklabvr_doc||[]).push([[469],{89:l=>{l.exports=JSON.parse('[{"label":"welcome","permalink":"/LABVR-DOC/blog/tags/welcome","count":1},{"label":"blog","permalink":"/LABVR-DOC/blog/tags/blog","count":1}]')}}]);
