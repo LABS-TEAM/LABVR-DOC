@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://labs-team.github.io/LABVR-DOC/blog</id>
+    <title>VRLab Blog</title>
+    <updated>2024-01-17T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="http://labs-team.github.io/LABVR-DOC/blog"/>
+    <subtitle>VRLab Blog</subtitle>
+    <icon>http://labs-team.github.io/LABVR-DOC/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Welcome]]></title>
+        <id>http://labs-team.github.io/LABVR-DOC/blog/welcome</id>
+        <link href="http://labs-team.github.io/LABVR-DOC/blog/welcome"/>
+        <updated>2024-01-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to this new blog!]]></summary>
+        <content type="html"><![CDATA[<p>Welcome to this new blog!</p>]]></content>
+        <author>
+            <name>Alexandre Figard</name>
+            <uri>https://github.com/AlexandreFigard</uri>
+        </author>
+        <author>
+            <name>Hugo Assoignon</name>
+            <uri>https://github.com/HugoAssoignon</uri>
+        </author>
+        <category label="welcome" term="welcome"/>
+        <category label="blog" term="blog"/>
+    </entry>
+</feed>
