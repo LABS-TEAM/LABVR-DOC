@@ -4,7 +4,8 @@ npm run build
 git branch -D gh-pages
 git push origin --delete gh-pages
 git checkout -b gh-pages
-rm -rf ./*
+# Delete all files except build folder
+find . -maxdepth 1 ! -name 'build' ! -name '.git' ! -name '.github' ! -name '.gitignore' ! -name '.' ! -name 'CNAME' -exec rm -rf {} \; 
 
 mv build/* .
 git add . 
