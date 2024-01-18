@@ -16,6 +16,4 @@ mkdir build
 mv ./* ./build
 rm -rf ./build
 git checkout main
-git add .
-git commit -m "clean build"
-git push origin main
+npm install

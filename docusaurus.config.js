@@ -16,7 +16,7 @@ const config = {
   url: "http://labs-team.github.io/",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: "/LABVR-DOC/",
+  baseUrl: "/docs/",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -58,21 +58,20 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: "img/docusaurus-social-card.jpg",
+      image: "img/LOGO-FULL.png",
       navbar: {
-        title: "VR Lab",
         logo: {
           alt: "VR Lab Logo",
-          src: "img/logo.svg",
+          src: "img/LOGO-FULL.png",
         },
         items: [
           {
             type: "docSidebar",
             sidebarId: "tutorialSidebar",
             position: "left",
-            label: "Tutorial",
+            label: "Documentation",
           },
-          { to: "/blog", label: "Blog", position: "left" },
+          { to: "/blog", label: "Dev Blog", position: "left" },
         ],
       },
       footer: {
@@ -82,7 +81,7 @@ const config = {
             title: "Docs",
             items: [
               {
-                label: "Tutorial",
+                label: "Documentation",
                 to: "/docs/intro",
               },
             ],
