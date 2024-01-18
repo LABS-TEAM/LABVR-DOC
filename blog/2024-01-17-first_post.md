@@ -1,7 +1,7 @@
 ---
 slug: Bienvenue sur notre blog
 title: Bienvenue sur notre blog
-authors: [afigard, hugo]
+authors: [alex, hugo, mathieu, matheo]
 tags: [blog, bienvenue, welcome]
 ---
 

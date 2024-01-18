@@ -1,11 +1,23 @@
-afigard:
+alex:
   name: Alexandre Figard
   title: Apprenti Ingénieur
   url: https://github.com/AlexandreFigard
-  image_url: https://github.com/AlexandreFigard.png
+  image_url: https://labs-team.github.io/LABVR-DOC/img/alexandre.png
 
 hugo:
   name: Hugo Assoignon
   title: Apprenti Ingénieur
   url: https://github.com/HugoAssoignon
-  image_url: https://labs-team.github.io/LABVR-DOC/img/HUGO.png
+  image_url: https://labs-team.github.io/LABVR-DOC/img/hugo.png
+
+mathieu:
+  name: Mathieu Bedez
+  title: Apprenti Ingénieur
+  url: https://github.com/mbedez
+  image_url: https://labs-team.github.io/LABVR-DOC/img/mathieu.png
+
+matheo:
+  name: Mathéo Boulogne
+  title: Apprenti Ingénieur
+  url: https://github.com/Shiyro
+  image_url: https://labs-team.github.io/LABVR-DOC/img/matheo.png
