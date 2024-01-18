@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>VRLab Blog</title>
+        <link>http://labs-team.github.io/LABVR-DOC/blog</link>
+        <description>VRLab Blog</description>
+        <lastBuildDate>Thu, 18 Jan 2024 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[TROP COOL]]></title>
+            <link>http://labs-team.github.io/LABVR-DOC/blog/TROP COOL</link>
+            <guid>http://labs-team.github.io/LABVR-DOC/blog/TROP COOL</guid>
+            <pubDate>Thu, 18 Jan 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Bonjour à tous,]]></description>
+            <content:encoded><![CDATA[<p>Bonjour à tous,</p>
+<p>pkjqdfgùpoksdhj fgipùzejpfjsdp</p>
+<p>L'équipe du LABSTEAM</p>]]></content:encoded>
+            <category>b</category>
+            <category>welcome</category>
+        </item>
+        <item>
+            <title><![CDATA[Bienvenue sur notre blog]]></title>
+            <link>http://labs-team.github.io/LABVR-DOC/blog/Bienvenue sur notre blog</link>
+            <guid>http://labs-team.github.io/LABVR-DOC/blog/Bienvenue sur notre blog</guid>
+            <pubDate>Wed, 17 Jan 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Bonjour à tous,]]></description>
+            <content:encoded><![CDATA[<p>Bonjour à tous,</p>
+<p>Bienvenue sur le blog du LabVR !</p>
+<p>L'objectif principal de notre démarche est de fournir aux étudiants un environnement propice à l'apprentissage de la réalité virtuelle, tout en évitant les risques de détérioration de matériel. Cela permettra aux académies, aux établissements scolaires et aux enseignants de mettre à disposition des ressources de pointe sans craindre les dommages éventuels.</p>
+<p>Nous croyons fermement que l'immersion dans la réalité virtuelle offre des opportunités d'apprentissage uniques et nous souhaitons partager cette expérience avec vous. Restez connectés pour être informés des dernières avancées de notre projet et pour découvrir les multiples facettes de la réalité virtuelle dans le monde de l'éducation.</p>
+<p>Merci de nous accompagner dans cette aventure excitante !</p>
+<p>Restez connectés pour plus d'informations.</p>
+<p>L'équipe du LABSTEAM</p>]]></content:encoded>
+            <category>blog</category>
+            <category>bienvenue</category>
+            <category>welcome</category>
+        </item>
+    </channel>
+</rss>

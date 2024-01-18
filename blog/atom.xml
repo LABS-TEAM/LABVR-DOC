@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://labs-team.github.io/LABVR-DOC/blog</id>
+    <title>VRLab Blog</title>
+    <updated>2024-01-18T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="http://labs-team.github.io/LABVR-DOC/blog"/>
+    <subtitle>VRLab Blog</subtitle>
+    <icon>http://labs-team.github.io/LABVR-DOC/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[TROP COOL]]></title>
+        <id>http://labs-team.github.io/LABVR-DOC/blog/TROP COOL</id>
+        <link href="http://labs-team.github.io/LABVR-DOC/blog/TROP COOL"/>
+        <updated>2024-01-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Bonjour à tous,]]></summary>
+        <content type="html"><![CDATA[<p>Bonjour à tous,</p>
+<p>pkjqdfgùpoksdhj fgipùzejpfjsdp</p>
+<p>L'équipe du LABSTEAM</p>]]></content>
+        <author>
+            <name>Alexandre Figard</name>
+            <uri>https://github.com/AlexandreFigard</uri>
+        </author>
+        <author>
+            <name>Hugo Assoignon</name>
+            <uri>https://github.com/HugoAssoignon</uri>
+        </author>
+        <category label="b" term="b"/>
+        <category label="welcome" term="welcome"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bienvenue sur notre blog]]></title>
+        <id>http://labs-team.github.io/LABVR-DOC/blog/Bienvenue sur notre blog</id>
+        <link href="http://labs-team.github.io/LABVR-DOC/blog/Bienvenue sur notre blog"/>
+        <updated>2024-01-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Bonjour à tous,]]></summary>
+        <content type="html"><![CDATA[<p>Bonjour à tous,</p>
+<p>Bienvenue sur le blog du LabVR !</p>
+<p>L'objectif principal de notre démarche est de fournir aux étudiants un environnement propice à l'apprentissage de la réalité virtuelle, tout en évitant les risques de détérioration de matériel. Cela permettra aux académies, aux établissements scolaires et aux enseignants de mettre à disposition des ressources de pointe sans craindre les dommages éventuels.</p>
+<p>Nous croyons fermement que l'immersion dans la réalité virtuelle offre des opportunités d'apprentissage uniques et nous souhaitons partager cette expérience avec vous. Restez connectés pour être informés des dernières avancées de notre projet et pour découvrir les multiples facettes de la réalité virtuelle dans le monde de l'éducation.</p>
+<p>Merci de nous accompagner dans cette aventure excitante !</p>
+<p>Restez connectés pour plus d'informations.</p>
+<p>L'équipe du LABSTEAM</p>]]></content>
+        <author>
+            <name>Alexandre Figard</name>
+            <uri>https://github.com/AlexandreFigard</uri>
+        </author>
+        <author>
+            <name>Hugo Assoignon</name>
+            <uri>https://github.com/HugoAssoignon</uri>
+        </author>
+        <category label="blog" term="blog"/>
+        <category label="bienvenue" term="bienvenue"/>
+        <category label="welcome" term="welcome"/>
+    </entry>
+</feed>
