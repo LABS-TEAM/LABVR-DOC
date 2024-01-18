@@ -1,8 +1,8 @@
 npm install
 npm run build
 
-git branch -D gh-pages
-git push origin --delete gh-pages
+# git branch -D gh-pages
+# git push origin --delete gh-pages
 git checkout -b gh-pages
 # Delete all files except build folder
 find . -maxdepth 1 ! -name 'build' ! -name '.git' ! -name '.github' ! -name '.' ! -name 'CNAME' -exec rm -rf {} \; 
