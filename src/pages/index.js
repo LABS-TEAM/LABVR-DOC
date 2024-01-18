@@ -39,9 +39,6 @@ export default function Home() {
       description="Documentation of Virtual Laboratory <head />"
     >
       <HomepageHeader />
-      <main>
-        <HomepageFeatures />
-      </main>
     </Layout>
   );
 }
