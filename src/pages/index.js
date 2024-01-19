@@ -17,10 +17,7 @@ function HomepageHeader() {
           <img src={useBaseUrl("/img/LOGO-FULL.png")} width="300px" />
         </div>
         <div className={styles.buttons}>
-          <Link
-            className="button button--secondary button--lg"
-            to="/docs/docs/intro"
-          >
+          <Link className="button button--secondary button--lg" to="docs/intro">
             Documentation 📚
           </Link>
           <Link className="button button--secondary button--lg" to="/blog/">
