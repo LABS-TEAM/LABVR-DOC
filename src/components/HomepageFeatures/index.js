@@ -12,7 +12,7 @@ export const HomepageFeatures = () => {
           <div className={clsx("div1", styles.div1)}>
             <h1 className={clsx("la-technologie-AU", styles.laTechnologieAU)}>
               La pointe de la technologie
-              <br /> au SERVICE de l’ÉDUCATION
+              <br /> au service de l'éducation
             </h1>
           </div>
           <div className={clsx("div2", styles.div2)}>
