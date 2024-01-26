@@ -59,6 +59,11 @@ const config = {
     ({
       // Replace with your project's social card
       image: "img/LOGO-FULL.png",
+      colorMode: {
+        defaultMode: "light",
+        disableSwitch: true,
+        respectPrefersColorScheme: false,
+      },
       navbar: {
         logo: {
           alt: "VR Lab Logo",
@@ -68,39 +73,26 @@ const config = {
           {
             type: "docSidebar",
             sidebarId: "tutorialSidebar",
-            position: "left",
+            position: "right",
             label: "Documentation",
           },
-          { to: "/blog", label: "Dev Blog", position: "left" },
+          { to: "/blog", label: "Dev Blog", position: "right" },
         ],
       },
       footer: {
         style: "dark",
         links: [
           {
-            title: "Docs",
+            title: " ",
             items: [
               {
-                label: "Documentation",
-                to: "docs/intro",
-              },
-            ],
-          },
-          {
-            title: "More",
-            items: [
-              {
-                label: "Blog",
-                to: "/blog",
-              },
-              {
-                label: "GitHub",
+                label: "Notre GitHub",
                 href: "https://github.com/LABS-TEAM",
               },
             ],
           },
         ],
-        copyright: `Copyright © 2024-${new Date().getFullYear()} Créé par LABS TEAM avec Docusaurus.`,
+        copyright: `Copyright © 2024-${new Date().getFullYear()} Créé par LABS TEAM avec Docusaurus.<br><br>Source de la page d'acceuil : <br> Image : <a href="https://www.libraryideas.com/news/library-ideas-to-launch-ar-vr-enhanced-childrens-books">libraryideas.com</a><br>Video : <a href="https://www.pexels.com/fr-fr/video/adolescents-s-amusant-a-l-interieur-de-la-salle-de-classe-5199624/">Max Fischer from Pexels</a>`,
       },
       prism: {
         theme: prismThemes.github,
