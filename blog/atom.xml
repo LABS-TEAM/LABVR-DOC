@@ -2,11 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://labs-team.github.io/LABVR-DOC/blog</id>
     <title>VRLab Blog</title>
-    <updated>2024-01-18T00:00:00.000Z</updated>
+    <updated>2024-01-30T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://labs-team.github.io/LABVR-DOC/blog"/>
     <subtitle>VRLab Blog</subtitle>
     <icon>http://labs-team.github.io/LABVR-DOC/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[FeedBack 2]]></title>
+        <id>http://labs-team.github.io/LABVR-DOC/blog/FeedBack 2</id>
+        <link href="http://labs-team.github.io/LABVR-DOC/blog/FeedBack 2"/>
+        <updated>2024-01-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Bonjour à tous,.]]></summary>
+        <content type="html"><![CDATA[<p>Bonjour à tous,.</p>
+<p>Une fois le déplacement via téléportation fait, nous avons mis en place l'interaction entre joueur et un objet quelconque. Pour nos tests, nous avons choisi d'utiliser des cubes, car c'est une forme simple.</p>
+<p>Pour tester cette interaction, nous avons crée plusieurs petits cubes avec des physiques différentes. Puis, nous avons testé en plusieurs étapes l'interaction joueur/objet.</p>
+<p>Tout d'abord, nous avons testé qu'en fonction de l'action que l'utilisateur fait ( attraper l'objet ou juste traverser celui-ci), la couleur de l'objet change.</p>
+<p><img loading="lazy" alt="Vidéo de démonstration attrapper des cubes" src="data:image/gif;base64," class="img_ev3q"></p>
+<p>Après cela, nous avons fait en sorte de pouvoir attraper un cube dans l'une des mains du joueur.
+<img loading="lazy" alt="Vidéo de démonstration attrapper des cubes" src="data:image/gif;base64," class="img_ev3q"></p>
+<p>Pendant ce temps, une autre partie de l'équipe à travailler sur la conception d'un espace de jeu, qui sera plus proche de ce que nous voulons faire. Nous avons donc crée un espace de jeu avec des murs, un sol et un plafond. Nous avons également ajouté deux palliaces et nous avons travaillé sur la physique de la table (collisions).</p>
+<p><img loading="lazy" alt="Vidéo de démonstration de la physique de la table" src="data:image/gif;base64," class="img_ev3q"></p>
+<p>Nous avons également travaillé sur la création d'un menu, qui permettra de choisir le TP.</p>
+<p><img loading="lazy" alt="Vidéo de démonstration du menu des TP" src="data:image/gif;base64," class="img_ev3q"></p>
+<p>Merci de nous avoir lu, à bientôt.</p>
+<p>L'équipe LABSTEAM</p>]]></content>
+        <author>
+            <name>Alexandre Figard</name>
+            <uri>https://github.com/AlexandreFigard</uri>
+        </author>
+        <author>
+            <name>Hugo Assoignon</name>
+            <uri>https://github.com/HugoAssoignon</uri>
+        </author>
+        <author>
+            <name>Mathieu Bedez</name>
+            <uri>https://github.com/mbedez</uri>
+        </author>
+        <author>
+            <name>Mathéo Boulogne</name>
+            <uri>https://github.com/Shiyro</uri>
+        </author>
+        <category label="FeedBack" term="FeedBack"/>
+        <category label="Unity" term="Unity"/>
+        <category label="Interaction objets" term="Interaction objets"/>
+        <category label="Menu" term="Menu"/>
+        <category label="collision" term="collision"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FeedBack 1]]></title>
         <id>http://labs-team.github.io/LABVR-DOC/blog/FeedBack 1</id>
