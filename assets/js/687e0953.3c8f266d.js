@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklabvr_doc=self.webpackChunklabvr_doc||[]).push([[4916],{7916:e=>{e.exports=JSON.parse('{"permalink":"/LABVR-DOC/blog/tags/teleportation","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
