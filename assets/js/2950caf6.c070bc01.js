@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunklabvr_doc=self.webpackChunklabvr_doc||[]).push([[6773],{2356:l=>{l.exports=JSON.parse('{"permalink":"/LABVR-DOC/blog/tags/collision","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
