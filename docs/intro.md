@@ -1,9 +1,8 @@
 ---
 sidebar_position: 1
+title: Téléchargement
 ---
 
-# Introduction
+Télécharger le guide d'utilisation de Labsteam [ici](/dl/doc_user.pdf)
 
-Bonjour,
-
-Dans cette section, nous décrirons les étapes à suivre pour installer et utiliser le projet.
+Télécharger l'installateur [ici](/dl/setup.exe)

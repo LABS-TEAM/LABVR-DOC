@@ -74,7 +74,7 @@ const config = {
             type: "docSidebar",
             sidebarId: "tutorialSidebar",
             position: "right",
-            label: "Documentation",
+            label: "Télécharger",
           },
           { to: "/blog", label: "Dev Blog", position: "right" },
         ],
