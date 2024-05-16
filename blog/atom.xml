@@ -2,11 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://labs-team.github.io/LABVR-DOC/blog</id>
     <title>VRLab Blog</title>
-    <updated>2024-01-30T00:00:00.000Z</updated>
+    <updated>2024-05-13T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://labs-team.github.io/LABVR-DOC/blog"/>
     <subtitle>VRLab Blog</subtitle>
     <icon>http://labs-team.github.io/LABVR-DOC/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[FeedBack 3]]></title>
+        <id>http://labs-team.github.io/LABVR-DOC/blog/FeedBack 3</id>
+        <link href="http://labs-team.github.io/LABVR-DOC/blog/FeedBack 3"/>
+        <updated>2024-05-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Bonjour à tous,]]></summary>
+        <content type="html"><![CDATA[<p>Bonjour à tous,</p>
+<p>Aujourd'hui, nous aimerions vous présenter notre avancement sur le projet en mettant en avant notre premier tp disponible : La loi d'Ohm !</p>
+<p>Pour cela, nous avons du récupérer et modifier les états des différents objets du TP (interrupteur, ampoule) à partir de l'emplacement du matériel (ampoule, résistance, pile) et allumer ou non l'ampoule en conséquence.</p>
+<p>L'objectif de ce TP et d'illustrer la loi d'Ohm de la manière la plus visuelle possible.</p>
+<p><img loading="lazy" alt="Vidéo de démonstration " src="http://labs-team.github.io/LABVR-DOC/assets/images/TP_OHM-f5259d550e40ee57abfbbe00157472ee.gif" width="600" height="338" class="img_ev3q"></p>
+<p>Il s'agit de la première version mais nous travaillons d'ores et déjà activement à la version suivante qui possèderas plusieurs résistances de valeurs différentes permettant de faire varier l'intensité électrique du circuit et donc l'intensité lumineuse de l'ampoule.</p>
+<p>Merci de nous avoir lu, à bientôt.</p>
+<p>L'équipe LABSTEAM</p>]]></content>
+        <author>
+            <name>Alexandre Figard</name>
+            <uri>https://github.com/AlexandreFigard</uri>
+        </author>
+        <author>
+            <name>Hugo Assoignon</name>
+            <uri>https://github.com/HugoAssoignon</uri>
+        </author>
+        <author>
+            <name>Mathieu Bedez</name>
+            <uri>https://github.com/mbedez</uri>
+        </author>
+        <author>
+            <name>Mathéo Boulogne</name>
+            <uri>https://github.com/Shiyro</uri>
+        </author>
+        <category label="FeedBack" term="FeedBack"/>
+        <category label="Unity" term="Unity"/>
+        <category label="TP" term="TP"/>
+        <category label="Loi d'ohm" term="Loi d'ohm"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FeedBack 2]]></title>
         <id>http://labs-team.github.io/LABVR-DOC/blog/FeedBack 2</id>
